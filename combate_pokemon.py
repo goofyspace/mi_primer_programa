@@ -27,14 +27,18 @@ if pokemon_elegido == "Bulbasaur":
     vida_de_enemigo = 100
 
 ## Bucle de ataques ##
+
 while vida_de_Pikachu > 0 and vida_de_enemigo > 0:
+
+    ###Ataques de Pikachu###
     ataque_elegido = input("¿Que ataque quieres elegir? (Chispazo / Bola voltio)")
     if ataque_elegido == "Chispazo":
         vida_de_enemigo -= 10
         print("Tu enemigo ha sufrido 10 puntos de daño")
-    if ataque_elegido == "Bola Voltio":
+    if ataque_elegido == "Bola voltio":
         vida_de_enemigo -= 12
         print("Tu enemigo ha sufrido 12 puntos de daño")
+    print("la vida de {} es de {} puntos".format(pokemon_elegido,vida_de_enemigo))
 
 ### terminar_turno = input("¿Has terminado tu turno?(Si/No)")
 ###  while terminar_turno == "Si":
@@ -51,19 +55,17 @@ while vida_de_Pikachu > 0 and vida_de_enemigo > 0:
         vida_de_Pikachu -= 7
         print("Charmander ataca provocandote unos 7 puntos de daño")
     if pokemon_elegido == "Bulbasaur":
-        vida_de_Pikachu -= 10
-        print("Bulbasaur ataca provocandote unos 10 puntos de daño")
+        vida_de_Pikachu -= 12
+        print("Bulbasaur ataca provocandote unos 12 puntos de daño")
+    print("la vida de Pikachu es de {}".format(vida_de_Pikachu))
 
 ##Mensaje de muerte de pokemon ##
 
-if vida_de_Pikachu == 0:
+if vida_de_Pikachu <= 0:
     print("Pikachu ha sido derrotado")
-if vida_de_enemigo == 0 and pokemon_elegido == "Squirtle":
-    print("Squirtle ha sido derrotado")
-if vida_de_enemigo == 0 and pokemon_elegido == "Charmander":
-    print("Charmander ha sido derrotado")
-if vida_de_enemigo == 0 and pokemon_elegido == "Bulbasaur":
-    print("Bulbasaur ha sido derrotado")
+else:
+    print("{} ha sido derrotado".format(pokemon_elegido))
+
 print("El combate ha terminado")
 
 #####MINUTO 16
