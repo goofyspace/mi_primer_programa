@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7ca2498-8269-4374-b19a-d1999e23e492" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adivina_el_numero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_contar_comas_espacios_puntos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_contar_mayusculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.adivina_el_numero">
+  <component name="RunManager" selected="Python.for_contar_mayusculas">
     <configuration name="adivina_el_numero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programa" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="combate_pokemon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programa" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/combate_pokemon.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\josed\PycharmProjects\mi_primer_programa\for_contar_comas_espacios_puntos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operaciones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for_contar_mayusculas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programa" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operaciones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for_contar_mayusculas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test.while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programa" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.adivina_el_numero" />
+        <item itemvalue="Python.for_contar_mayusculas" />
+        <item itemvalue="Python.for" />
+        <item itemvalue="Python.lista" />
         <item itemvalue="Python.calculadora" />
-        <item itemvalue="Python.combate_pokemon" />
-        <item itemvalue="Python.test.while" />
-        <item itemvalue="Python.operaciones" />
+        <item itemvalue="Python.adivina_el_numero" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576292771490</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Juego de adivinar el numero muy mal hecho. pendiente de afinar">
+      <created>1576294689771</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576294689771</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +260,8 @@
     <MESSAGE value="operaciones, or , and y operaciones booleanas" />
     <MESSAGE value="Afinando un poco el combate_pokemon.py y creando una sencilla calculadora.py *necesario practicar mas con while*" />
     <MESSAGE value="Afinando un poco el combate_pokemon y creando una sencilla calculadora *necesario practicar mas con while*" />
-    <option name="LAST_COMMIT_MESSAGE" value="Afinando un poco el combate_pokemon y creando una sencilla calculadora *necesario practicar mas con while*" />
+    <MESSAGE value="Juego de adivinar el numero muy mal hecho. pendiente de afinar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Juego de adivinar el numero muy mal hecho. pendiente de afinar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="26" key="#test_input" timestamp="1575658358469">
@@ -261,10 +272,10 @@
     </state>
     <state x="507" y="26" key="#test_input.py/0.0.1536.824@0.0.1536.824" timestamp="1575658419771" />
     <state x="507" y="26" key="#test_input/0.0.1536.824@0.0.1536.824" timestamp="1575658358469" />
-    <state x="417" y="7" key="CommitChangelistDialog2" timestamp="1576292769959">
+    <state x="417" y="7" key="CommitChangelistDialog2" timestamp="1576294688646">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="417" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576292769959" />
+    <state x="417" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576294688646" />
     <state width="757" height="242" key="GridCell.Tab.-1.bottom" timestamp="1575677791706">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -281,22 +292,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="757" height="242" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1575677791706" />
-    <state width="744" height="210" key="GridCell.Tab.0.bottom" timestamp="1576294644624">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1576387196373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576294644624" />
-    <state width="744" height="210" key="GridCell.Tab.0.center" timestamp="1576294644624">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576387196373" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1576387196373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576294644624" />
-    <state width="744" height="210" key="GridCell.Tab.0.left" timestamp="1576294644624">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576387196373" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1576387196373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576294644624" />
-    <state width="744" height="210" key="GridCell.Tab.0.right" timestamp="1576294644624">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576387196373" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1576387196373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576294644624" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576387196373" />
     <state width="757" height="242" key="GridCell.Tab.1.bottom" timestamp="1575677787100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -321,14 +332,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575658940651" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1576292774989">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1576294691583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576292774989" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1576291486614">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576294691583" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1576379850545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576291486614" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576379850545" />
     <state x="567" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575806610999">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -349,6 +360,15 @@
           <url>file://$PROJECT_DIR$/operaciones.py</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/for_contar_comas_espacios_puntos.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/for_contar_mayusculas.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
