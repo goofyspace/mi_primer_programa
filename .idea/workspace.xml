@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7ca2498-8269-4374-b19a-d1999e23e492" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/agenda_telefonica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.agenda_telefonica">
+  <component name="RunManager" selected="Python.ejercicios">
     <configuration name="agenda_telefonica" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programa" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forward" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejercicios" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mi_primer_programa" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forward.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ejercicios" />
         <item itemvalue="Python.agenda_telefonica" />
         <item itemvalue="Python.crear_funciones" />
         <item itemvalue="Python.operaciones" />
         <item itemvalue="Python.numero_more_peque" />
-        <item itemvalue="Python.forward" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578616148961</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="creando diccionarios y otros ejercicios">
+      <created>1580815969924</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580815969924</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -298,7 +305,8 @@
     <MESSAGE value="Respasando ejercicios" />
     <MESSAGE value="PROBANDO TURTLE¡" />
     <MESSAGE value="Creando funciones" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando funciones" />
+    <MESSAGE value="creando diccionarios y otros ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="creando diccionarios y otros ejercicios" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="26" key="#test_input" timestamp="1575658358469">
@@ -309,10 +317,10 @@
     </state>
     <state x="507" y="26" key="#test_input.py/0.0.1536.824@0.0.1536.824" timestamp="1575658419771" />
     <state x="507" y="26" key="#test_input/0.0.1536.824@0.0.1536.824" timestamp="1575658358469" />
-    <state x="417" y="7" key="CommitChangelistDialog2" timestamp="1578616147856">
+    <state x="417" y="7" key="CommitChangelistDialog2" timestamp="1580815968849">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="417" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578616147856" />
+    <state x="417" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580815968849" />
     <state width="757" height="242" key="GridCell.Tab.-1.bottom" timestamp="1575677791706">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -329,22 +337,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="757" height="242" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1575677791706" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1580813306383">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1580817954868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580813306383" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1580813306383">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580817954868" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1580817954868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580813306383" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1580813306383">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580817954868" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1580817954868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580813306383" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1580813306383">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580817954868" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1580817954868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580813306383" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580817954868" />
     <state width="757" height="242" key="GridCell.Tab.1.bottom" timestamp="1575677787100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -369,10 +377,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575658940651" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578616151214">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1580816016596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578616151214" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580816016596" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577089219560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
